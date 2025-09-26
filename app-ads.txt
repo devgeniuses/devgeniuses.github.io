@@ -8,6 +8,7 @@ pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 pangleglobal.com, 61184, DIRECT
 vungle.com,[yourVunglePublisherAccountID],DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
 Media.net,8CU9B72O6,RESELLER
