@@ -1,6 +1,12 @@
 google.com, pub-5222791600632197, DIRECT, f08c47fec0942fa0
 facebook.com, 1458550544253058, DIRECT, c3e20eee3f780d68
 facebook.com, 402494555675672, DIRECT, c3e20eee3f780d68
+greedygame.com,3055722897079350,direct
+google.com,pub-1067374679252537,reseller,f08c47fec0942fa0
+google.com,pub-2749054827332983,reseller,f08c47fec0942fa0
+pubmatic.com,161480,reseller,5d62403b186f2ace
+pubmatic.com,162539,reseller,5d62403b186f2ace
+google.com,pub-4686405784285870,reseller,f08c47fec0942fa0
 vungle.com,5fec4e61219cd5001532e753,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
